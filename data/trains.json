@@ -17,6 +17,23 @@
 				}
 			]
 		},
+                {
+                        "name": "Kama",
+                        "stops": [
+                                {
+                                        "station": "Perm",
+                                        "status": "ON-TIME",
+                                        "arrival": "12:00pm",
+                                        "departure": "12:10pm"
+                                },
+                                {
+                                        "station": "Moscow",
+                                        "status": "ON-TIME",
+                                        "arrival": "1:00pm",
+                                        "departure": "1:10pm" 
+                                }
+                        ]
+                },
 		{
 			"name": "Flying Scotsman",
 			"stops": [
